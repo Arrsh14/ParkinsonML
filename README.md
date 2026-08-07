@@ -1,4 +1,4 @@
-# ParkinsonML
+# ParkinsonMLa
 
 This project focuses on detecting Parkinson’s Disease using machine learning techniques based on biomedical voice measurements.
 The goal is to build a predictive system that can help in early diagnosis by analyzing voice-related features.
